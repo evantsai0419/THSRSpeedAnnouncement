@@ -5,7 +5,7 @@
   "buttonTitle": "我知道了",
   "minAppVersion": "1.0.0",
   "maxAppVersion": "",
-  "forceShow": false,
+  "forceShow": true,
   "isEnabled": true,
   "updatedAt": "2026-07-05T12:00:00+08:00"
 }
