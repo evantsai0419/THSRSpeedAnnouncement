@@ -1,0 +1,11 @@
+{
+  "id": "2026-07-05-thsr-atc-001",
+  "title": "THSRSpeed 更新公告",
+  "message": "本次更新：\n\n1. 修正北上板橋至台北 ATC 允許速度曲線。\n2. 靜態輸出圖表改為顯示整趟 ATC。\n3. 輸出影片新增中間1、中間2、燕巢標記。\n\n若發現曲線異常，請重新輸出影片確認。",
+  "buttonTitle": "我知道了",
+  "minAppVersion": "1.0.0",
+  "maxAppVersion": "",
+  "forceShow": false,
+  "isEnabled": true,
+  "updatedAt": "2026-07-05T12:00:00+08:00"
+}
