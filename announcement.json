@@ -1,7 +1,7 @@
 {
   "id": "2026-07-05-thsr-atc-003",
   "title": "THSRSpeed 更新公告",
-  "message": "版本：V1.1.0 Build.236\n\n本次更新重點：\n\n1. 支援ipad、ipad mini、ipad pro解析度。\n2. 修正輸出影片，新增南港、台北、板橋區間。\n3. 更新語音辨識邏輯。",
+  "message": "版本：V1.1.0 Build 236\n\n本次更新重點：\n\n1. 支援 iPad、iPad mini、iPad Pro 版面配置，提升不同螢幕尺寸下的顯示效果。\n2. 修正輸出影片功能，補齊南港、台北、板橋區間的 ATC 允許速度曲線顯示。\n3. 更新語音辨識與號誌音偵測邏輯，降低提示音干擾造成誤判或漏判的機率。\n\n若更新後仍發現圖表、影片輸出或語音辨識異常，請重新輸出或重新啟動 App 後再確認。",
   "buttonTitle": "我知道了",
   "minAppVersion": "",
   "maxAppVersion": "",
